@@ -1,0 +1,42 @@
+[
+  {
+    "id": "t_debut",
+    "name": "Debut",
+    "trader": "Prapor",
+    "maps": [
+      "Customs"
+    ],
+    "prerequisites": [],
+    "tags": [
+      "early"
+    ]
+  },
+  {
+    "id": "t_punisher_1",
+    "name": "Punisher - Part 1",
+    "trader": "Prapor",
+    "maps": [
+      "Shoreline"
+    ],
+    "prerequisites": [
+      "t_debut"
+    ],
+    "tags": [
+      "kappa",
+      "kills"
+    ]
+  },
+  {
+    "id": "t_boss_tagilla",
+    "name": "Boss Kill: Tagilla (sample)",
+    "trader": "Jaeger",
+    "maps": [
+      "Factory"
+    ],
+    "prerequisites": [],
+    "tags": [
+      "kappa",
+      "boss:tagilla"
+    ]
+  }
+]
